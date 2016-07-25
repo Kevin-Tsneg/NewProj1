@@ -10,7 +10,7 @@ namespace NewProj.Controllers
     {
         public ActionResult Index()
         {
-            string Word = "Hello World!";
+            string Word = "Hello World!Yu Chang!";
             return View();
         }
 
